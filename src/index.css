@@ -1,0 +1,8 @@
+/* Tailwind CSS의 기본 스타일들을 가져옵니다 */
+@import "tailwindcss";
+
+/*
+  Tailwind CSS 4.x 사용법:
+  - @import "tailwindcss"만 추가하면 됩니다
+  - 별도의 config 파일이 필요 없습니다
+*/
