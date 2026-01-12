@@ -5,7 +5,9 @@
       "Bash(git push:*)",
       "Bash(git add:*)",
       "Bash(git commit -m \"$\\(cat <<''EOF''\nBackup before project reset\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
-      "Bash(npm create:*)"
+      "Bash(npm create:*)",
+      "Bash(npm install:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nDay 1: Basic UI setup with BookCard component\n\n- Install Firebase SDK\n- Create firebase.js config template\n- Clean up App.jsx with new layout\n- Create BookCard component with status-based styling\n- Add 3 dummy books for testing\n- Implement responsive grid layout \\(1/2/3 columns\\)\n- Add ivory background and header\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\nEOF\n\\)\")"
     ]
   }
 }
