@@ -3,14 +3,13 @@ import { initializeApp } from 'firebase/app';
 import { getFirestore } from 'firebase/firestore';
 
 // Firebase 설정 정보
-// TODO: Firebase 콘솔에서 받은 정보로 교체하세요
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT_ID.appspot.com",
-  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-  appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyBneoaTKHHQJsLm4rohopz3qqjW9ujrDVw",
+  authDomain: "my-book-app-cf04e.firebaseapp.com",
+  projectId: "my-book-app-cf04e",
+  storageBucket: "my-book-app-cf04e.firebasestorage.app",
+  messagingSenderId: "567338110465",
+  appId: "1:567338110465:web:88e314ad8b4e0f76c4fa00"
 };
 
 // Firebase 앱 초기화
